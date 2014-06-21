@@ -19,4 +19,4 @@ The table from the EAFUS website contains only five fields from the complete FDA
 
 Software dependencies: 
 
-bs4 (install with pip using: "pip install bs4")
+- bs4 (install with pip using: "pip install bs4")
