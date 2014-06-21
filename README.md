@@ -3,7 +3,7 @@ Extract "Everything Added to Food in the United States" Database
 
 ## General Description ##
 
-`extractEAFUS.py` will pull the HTML file for the FDA's [EAFUS database](http://www.accessdata.fda.gov/scripts/fcn/fcnNavigation.cfm?rpt=eafusListing) and parse it into a paired down HTML file and into a pipe delimited ("|") text representation.  Credit to the FDA for the database.
+`extractEAFUS.py` will pull the HTML file for the FDA's [EAFUS database](http://www.accessdata.fda.gov/scripts/fcn/fcnNavigation.cfm?rpt=eafusListing) and parse it into a paired down HTML file and into a pipe delimited (`|`) text representation.  Credit to the FDA for the database.
 
 What is the [EAFUS](http://www.fda.gov/Food/IngredientsPackagingLabeling/ucm115326.htm), you ask?
 
