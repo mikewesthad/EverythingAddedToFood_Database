@@ -20,3 +20,13 @@ It's a list of 3000+ substances that are legally allowed to be added to foods in
 It should be cross-platform compatible with python 2.7 and up.  One additional software dependency: [BeautifulSoup4](http://www.crummy.com/software/BeautifulSoup/), which can be installed by `pip install bs4` (provided you have pip).
 
 The pulling of data from the eafus site is based on HTML elements and CSS styling.  This software could easily break if the FDA changes its HTML or CSS, so for the sake of providing a source of the data, the repo includes the output of the code: `eafus_20_06_2014.txt` and `eafus_20_06_2014.html`.  Both were pulled down on 06/20/2014.
+
+## Using the data ##
+
+As a small example of what you could do with the data, I've added a python script to generate a fake food label in `/GenerateFoodLabel`.  It takes the text file of the eafus database, grabs a bunch of random additives, throws them into an HTML page and then converts that to a pdf.  Resulting in something like:
+
+![Fake label](./GenerateFoodLabel/index.png) 
+
+I used the code in [rendersketchgame](https://github.com/mikewesthad/rendersketchgame) to create an endless aisle of food additives:
+
+![Eafus Aisle](https://github.com/mikewesthad/rendersketchgame/blob/master/06_21_2014/eafusAisle.png)
