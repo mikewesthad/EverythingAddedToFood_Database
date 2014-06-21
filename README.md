@@ -14,8 +14,9 @@ The table from the EAFUS website contains only five fields from the complete FDA
 		cas rn or other code - registry number for the substance
 		regnum - FDA regulation numbers where the substance appears 
 		
-More information of EAFUS: http://www.fda.gov/Food/IngredientsPackagingLabeling/ucm115326.htm
-More information on GRAS: http://www.fda.gov/food/ingredientspackaginglabeling/gras/default.htm
+[More information of EAFUS](http://www.fda.gov/Food/IngredientsPackagingLabeling/ucm115326.htm)
+[More information on GRAS](http://www.fda.gov/food/ingredientspackaginglabeling/gras/default.htm)
 
 Software dependencies: 
-	bs4 (install with pip using: "pip install bs4")
+
+bs4 (install with pip using: "pip install bs4")
