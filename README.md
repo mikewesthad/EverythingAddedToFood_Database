@@ -7,8 +7,7 @@ Extract "Everything Added to Food in the United States" Database
 
 What is the [EAFUS](http://www.fda.gov/Food/IngredientsPackagingLabeling/ucm115326.htm), you ask?
 
-It's a list of 3000+ substances that are legally allowed to be added to foods in the United States.  These substances were either directly approved by the FDA or are affirmed by the FDA to be "generally	recognized as safe" ([GRAS](http://www.fda.gov/food/ingredientspackaginglabeling/gras/default.htm)
-). The table from the EAFUS website contains only five fields from the complete FDA database (PAFA).  They are:
+It's a list of 3000+ substances that are legally allowed to be added to foods in the United States.  These substances were either directly approved by the FDA or are affirmed by the FDA to be "generally	recognized as safe" ([GRAS](http://www.fda.gov/food/ingredientspackaginglabeling/gras/default.htm)). The table from the EAFUS website contains only five fields from the complete FDA database (PAFA).  They are:
 
 - doctype - Status of toxicology information available
 - docnum - PAFA database number for printed information on substance
