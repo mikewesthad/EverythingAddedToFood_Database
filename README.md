@@ -1,7 +1,7 @@
 Extract "Everything Added to Food in the United States" Database
 ======================================
 
-'extractEAFUS.py' will pull the HTML file for the FDA's EAFUS database and parse it into a paired down HTML file and into a pipe delimited ("|") text representation.  Credit to the FDA for the database, obviously.
+`extractEAFUS.py` will pull the HTML file for the FDA's EAFUS database and parse it into a paired down HTML file and into a pipe delimited ("|") text representation.  Credit to the FDA for the database, obviously.
 
 What is the EAFUS, you ask?
 
