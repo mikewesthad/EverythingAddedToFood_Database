@@ -29,4 +29,4 @@ As a small example of what you could do with the data, I've added a python scrip
 
 I used the code in [rendersketchgame](https://github.com/mikewesthad/rendersketchgame) to create an endless aisle of food additives:
 
-![Eafus Aisle](https://github.com/mikewesthad/rendersketchgame/blob/master/06_21_2014/eafusAisle.png)
+![Eafus Aisle](https://raw.githubusercontent.com/mikewesthad/rendersketchgame/master/06_21_2014/eafusAisle.png)
